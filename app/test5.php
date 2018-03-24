@@ -1,5 +1,5 @@
 <?php
-	//test3だよ
+	//test3-6だよ
 	phpinfo();
 	
 ?>
